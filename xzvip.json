@@ -427,8 +427,8 @@
       "filterable": 1,
       "ext": "./lib/哔哩健身.json"
     },
-	{"key":"荐片弹幕","name":"荐片｜弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;02d800e8b76465acdd1f989d6b7db868"},
-	{"key":"玩偶弹幕","name":"玩偶｜弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"./DM/玩偶哥哥.json","token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;02d800e8b76465acdd1f989d6b7db868"},
+	{"key":"荐片弹幕","name":"荐片｜弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar"},
+	{"key":"玩偶弹幕","name":"玩偶｜弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"./DM/玩偶哥哥.json","token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar"},
 	{"key":"New6v","name":"New6V｜磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
 	{"key":"两个磁力","name":"两个｜磁力","type":3,"api":"./JS/drpy.min.js","ext":"./JS/两个磁力.js"},
 	{"key":"SeedHub","name":"SeedHub｜磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
