@@ -87,7 +87,6 @@
 	{"key":"老虎","name":"老虎｜影视","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"./EXT/老虎"},
 	{"key":"星星","name":"星星｜影视","type":3,"api":"csp_App","playerType":2,"ext":"./EXT/星星"},
 	{"key":"一起看","name":"一起｜影视","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-	{"key":"机器人","name":"机器｜影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"短剧网","name":"短剧｜影视","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"迷你库","name":"迷你｜影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
 	{"key":"加速器","name":"加速｜影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
